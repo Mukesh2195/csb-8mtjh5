@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea5baf2da16d77b0f31ffe6b68ea4036",
+    "revision": "6337872593f2a145ea6a5133aee18c6d",
     "url": "https://mukesh2195.github.io/csb-8mtjh5/index.html"
   },
   {
-    "revision": "ca1deff9f20aa2238656",
+    "revision": "a7c6a0a926236e59a447",
     "url": "https://mukesh2195.github.io/csb-8mtjh5/static/css/main.bec89ba6.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/2.dd66d9dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84b8b7a773beefae242d",
-    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/3.2a4c6fb2.chunk.js"
+    "revision": "7f785cc3db033445e763",
+    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/3.803633f8.chunk.js"
   },
   {
-    "revision": "08a5c6eec3671134ee0b",
-    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/4.2bf0b720.chunk.js"
+    "revision": "efa18a5503dd89b0c789",
+    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/4.7476edc5.chunk.js"
   },
   {
-    "revision": "ca1deff9f20aa2238656",
-    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/main.3122e85c.chunk.js"
+    "revision": "a7c6a0a926236e59a447",
+    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/main.c40d60e0.chunk.js"
   },
   {
-    "revision": "1de0c4a3f5348418db2f",
-    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/runtime-main.3be5ab5d.js"
+    "revision": "d0a220f64ca946cb85a0",
+    "url": "https://mukesh2195.github.io/csb-8mtjh5/static/js/runtime-main.16930106.js"
   },
   {
     "revision": "a77f19fe7f86b49a8d3b2471c3e304ee",
