@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://mukesh2195.github.io/csb-8mtjh5/static/css/main.bec89ba6.chunk.css",
+    "main.js": "https://mukesh2195.github.io/csb-8mtjh5/static/js/main.3122e85c.chunk.js",
+    "main.js.map": "https://mukesh2195.github.io/csb-8mtjh5/static/js/main.3122e85c.chunk.js.map",
+    "runtime-main.js": "https://mukesh2195.github.io/csb-8mtjh5/static/js/runtime-main.3be5ab5d.js",
+    "runtime-main.js.map": "https://mukesh2195.github.io/csb-8mtjh5/static/js/runtime-main.3be5ab5d.js.map",
+    "static/js/2.dd66d9dd.chunk.js": "https://mukesh2195.github.io/csb-8mtjh5/static/js/2.dd66d9dd.chunk.js",
+    "static/js/2.dd66d9dd.chunk.js.map": "https://mukesh2195.github.io/csb-8mtjh5/static/js/2.dd66d9dd.chunk.js.map",
+    "static/js/3.2a4c6fb2.chunk.js": "https://mukesh2195.github.io/csb-8mtjh5/static/js/3.2a4c6fb2.chunk.js",
+    "static/js/3.2a4c6fb2.chunk.js.map": "https://mukesh2195.github.io/csb-8mtjh5/static/js/3.2a4c6fb2.chunk.js.map",
+    "static/js/4.2bf0b720.chunk.js": "https://mukesh2195.github.io/csb-8mtjh5/static/js/4.2bf0b720.chunk.js",
+    "static/js/4.2bf0b720.chunk.js.map": "https://mukesh2195.github.io/csb-8mtjh5/static/js/4.2bf0b720.chunk.js.map",
+    "index.html": "https://mukesh2195.github.io/csb-8mtjh5/index.html",
+    "precache-manifest.4f76979f869dd759d5c72247fb5458de.js": "https://mukesh2195.github.io/csb-8mtjh5/precache-manifest.4f76979f869dd759d5c72247fb5458de.js",
+    "service-worker.js": "https://mukesh2195.github.io/csb-8mtjh5/service-worker.js",
+    "static/css/main.bec89ba6.chunk.css.map": "https://mukesh2195.github.io/csb-8mtjh5/static/css/main.bec89ba6.chunk.css.map",
+    "static/js/2.dd66d9dd.chunk.js.LICENSE.txt": "https://mukesh2195.github.io/csb-8mtjh5/static/js/2.dd66d9dd.chunk.js.LICENSE.txt",
+    "static/media/Basix_1400x.jpg": "https://mukesh2195.github.io/csb-8mtjh5/static/media/Basix_1400x.a77f19fe.jpg",
+    "static/media/Basix_700.jpg": "https://mukesh2195.github.io/csb-8mtjh5/static/media/Basix_700.284a6863.jpg",
+    "static/media/Basix_900.jpg": "https://mukesh2195.github.io/csb-8mtjh5/static/media/Basix_900.344017e8.jpg",
+    "static/media/essentials_1400x.jpg": "https://mukesh2195.github.io/csb-8mtjh5/static/media/essentials_1400x.581f2b62.jpg",
+    "static/media/mainvideo2.mp4": "https://mukesh2195.github.io/csb-8mtjh5/static/media/mainvideo2.f2d6f55f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be5ab5d.js",
+    "static/js/2.dd66d9dd.chunk.js",
+    "static/css/main.bec89ba6.chunk.css",
+    "static/js/main.3122e85c.chunk.js"
+  ]
+}
